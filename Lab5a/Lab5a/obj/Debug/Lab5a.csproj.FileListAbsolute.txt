@@ -1,0 +1,10 @@
+C:\Users\Justin\source\repos\Lab5a\Lab5a\bin\Debug\Lab5a.exe.config
+C:\Users\Justin\source\repos\Lab5a\Lab5a\bin\Debug\Lab5a.exe
+C:\Users\Justin\source\repos\Lab5a\Lab5a\bin\Debug\Lab5a.pdb
+C:\Users\Justin\source\repos\Lab5a\Lab5a\obj\Debug\Lab5a.csprojAssemblyReference.cache
+C:\Users\Justin\source\repos\Lab5a\Lab5a\obj\Debug\Lab5a.Form1.resources
+C:\Users\Justin\source\repos\Lab5a\Lab5a\obj\Debug\Lab5a.Properties.Resources.resources
+C:\Users\Justin\source\repos\Lab5a\Lab5a\obj\Debug\Lab5a.csproj.GenerateResource.cache
+C:\Users\Justin\source\repos\Lab5a\Lab5a\obj\Debug\Lab5a.csproj.CoreCompileInputs.cache
+C:\Users\Justin\source\repos\Lab5a\Lab5a\obj\Debug\Lab5a.exe
+C:\Users\Justin\source\repos\Lab5a\Lab5a\obj\Debug\Lab5a.pdb
